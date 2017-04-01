@@ -5,4 +5,4 @@
 <p>宽高使用  height:pxToRem(60px)</p>
 <p>字体使用　假设设计稿的字体是20px 那么我们需要　@inlcude font-dpr(10px)</p>
 ##截图
-<p><img src='../importCss/img.png' /></p>
+<p><img src='./importCss/img.png' /></p>
